@@ -1,3 +1,4 @@
+/* resetear los estilos del navegador */
 *{
 margin:0;
 padding:0;
@@ -17,7 +18,7 @@ font-family:'Press Start 2P', cursive;
 }
 
 a{
-text-decoration:none;
+text-decoration:none; /* quita el subrayado de enlaces */
 color:white;
 transition:0.3s;
 }
